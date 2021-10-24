@@ -14,8 +14,9 @@
   text-transform: uppercase;
 }
 
-#Left-side{
-  float: left;
+#right-side{
+  float: right;
+  position: fixed;
 }
 
 h2,h3{
