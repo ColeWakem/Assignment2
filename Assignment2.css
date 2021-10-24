@@ -16,7 +16,7 @@
 
 #right-side{
   float: right;
-  position: fixed;
+  position: relative;
 }
 
 h2,h3{
