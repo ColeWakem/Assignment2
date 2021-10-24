@@ -1,0 +1,27 @@
+.Text1{
+  color: Red;
+}
+
+.Text2{
+  font-size: 20px;
+}
+
+.Text3{
+  font-family: sans-serif;
+}
+
+.Text4{
+  text-transform: uppercase;
+}
+
+#Left-side{
+  float: left;
+}
+
+h2,h3{
+  color: Green;
+}
+
+.marked p{
+  color: Blue;
+}
