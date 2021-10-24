@@ -26,3 +26,12 @@ h2,h3{
 .marked p{
   color: Blue;
 }
+
+#footer{
+  float: center;
+  text-align:center;
+  margin: 15px;
+  border: 3px dashed black;
+  background-color: green;
+  padding: 10px;
+}
